@@ -1,1 +1,2 @@
-ÕâÊÇÎÒÊ¹ÓÃgradleĞŞ¸ÄµÄµÚÒ»¸öÎÄ¼ş
+è¿™æ˜¯æˆ‘ä½¿ç”¨gradleä¿®æ”¹çš„ç¬¬ä¸€ä¸ªæ–‡ä»¶
+i change this file on the line
